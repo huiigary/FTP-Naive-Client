@@ -1,6 +1,5 @@
-Comments:
- - in the GET function if we find that a local file already exists with the same same of a file we are requesting we choose to tell the serve to ABORT
- the file transfer
+## FTP-Naive-Client
+Simple FTP Client Program that provides FTP UDP client functionality through the command-line interface implemented in Java and Java Socket related classes. Project developed for a computer science course
  
  
 
